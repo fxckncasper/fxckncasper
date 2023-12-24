@@ -65,6 +65,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fxckncasper/fxckncasper/output/snake.svg" alt="Snake animation" />
 
 ###
